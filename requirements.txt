@@ -1,0 +1,6 @@
+numpy == 1.22.0
+opencv_python == 4.2.0.32
+dlib == 19.16.0
+mouse == 0.7.1
+plyer == 2.1.0
+keyboard == 0.13.5
